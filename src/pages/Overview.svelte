@@ -11,6 +11,10 @@
 
     <p><b>Profile Customization</b> - Customize your profile to help advertise yourself to other members of the BarterBee community! This includes creating your own username, display name, and setting your interests to help us find you a potential match!</p>
     <p><b>Matchmaking Algorithm</b> - We make use of a simple matchmaking algorithm based off your skills wanted and offered to provide you with your best possible match! From there, you can decide to accept or deny the possible match!</p>
+    
+    <p><b>To Do:</b></p>
+
+    <p><b>Chat Function</b> - Talk with your new matches on the app in real time to figure out your best solution!</p>
     <p><b>In-App Booking</b> - Once you find that perfect match, we offer functionality to let you book your first meeting in the app itself!</p>
     <p><b>Search Tool</b> - Do you have someone very specific in mind? Is our recommended algorithm somehow not finding the people you want to see? We offer a proper profile query tool to empower our users to find EXACTLY what they want to see.</p>
     <p><i>and more coming soon...</i></p>
